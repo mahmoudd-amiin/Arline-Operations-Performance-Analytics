@@ -1,6 +1,6 @@
-# ✈️ Airline Operations & Performance Analytics | Power BI Dashboard
+#  Airline Operations & Performance Analytics | Power BI Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an interactive Power BI dashboard designed to analyze airline operational performance, flight cancellations, diversions, and passenger impact.
 
@@ -8,7 +8,7 @@ The dashboard transforms airline operational data into meaningful insights throu
 
 > **Note:** This is an independent analytics project. The dataset is synthetic and inspired by airline operations; it is not official Delta Air Lines data.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze airline operational performance.
 - Monitor flight cancellations and diversions.
@@ -17,14 +17,14 @@ The dashboard transforms airline operational data into meaningful insights throu
 - Present key performance indicators through interactive dashboards.
 - Support data-driven operational analysis.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI Desktop** — Dashboard development and visualization.
 - **Power Query** — Data cleaning and transformation.
 - **DAX** — Measures, calculations, and KPIs.
 - **Data Modeling** — Organizing data for analytical reporting.
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### 1. Airline Operations Overview
 - Key performance indicators (KPIs).
@@ -42,7 +42,7 @@ The dashboard transforms airline operational data into meaningful insights throu
 - Interactive filters and slicers.
 - Dynamic KPIs that respond to user selections.
 
-## 📈 Key Business Questions
+##  Key Business Questions
 
 - How many flights were cancelled or diverted?
 - How many passengers were affected by operational disruptions?
